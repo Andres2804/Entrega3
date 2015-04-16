@@ -1,0 +1,9 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\bin\Debug\AppCheck.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\bin\Debug\AppCheck.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\bin\Debug\AppCheck.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\obj\Debug\AppCheck.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\obj\Debug\AppCheck.Form1.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\obj\Debug\AppCheck.Properties.Resources.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\obj\Debug\AppCheck.csproj.GenerateResource.Cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\obj\Debug\AppCheck.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppCheck\AppCheck\obj\Debug\AppCheck.pdb

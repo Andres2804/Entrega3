@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClave", "AppClave\AppClave.csproj", "{0C318D4D-6067-45A3-8A90-0E46CA4BD52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C318D4D-6067-45A3-8A90-0E46CA4BD52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C318D4D-6067-45A3-8A90-0E46CA4BD52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C318D4D-6067-45A3-8A90-0E46CA4BD52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C318D4D-6067-45A3-8A90-0E46CA4BD52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

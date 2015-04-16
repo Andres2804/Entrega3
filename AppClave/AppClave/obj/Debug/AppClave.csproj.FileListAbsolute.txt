@@ -1,0 +1,8 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\bin\Debug\AppClave.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\bin\Debug\AppClave.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\bin\Debug\AppClave.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\obj\Debug\AppClave.Form1.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\obj\Debug\AppClave.Properties.Resources.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\obj\Debug\AppClave.csproj.GenerateResource.Cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\obj\Debug\AppClave.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppClave\AppClave\obj\Debug\AppClave.pdb

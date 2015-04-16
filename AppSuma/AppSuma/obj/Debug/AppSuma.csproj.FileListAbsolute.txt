@@ -1,0 +1,8 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\bin\Debug\AppSuma.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\bin\Debug\AppSuma.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\bin\Debug\AppSuma.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\obj\Debug\AppSuma.Form1.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\obj\Debug\AppSuma.Properties.Resources.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\obj\Debug\AppSuma.csproj.GenerateResource.Cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\obj\Debug\AppSuma.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppSuma\AppSuma\obj\Debug\AppSuma.pdb

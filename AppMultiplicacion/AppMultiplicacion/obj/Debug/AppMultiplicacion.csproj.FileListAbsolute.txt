@@ -1,0 +1,5 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppMultiplicacion\AppMultiplicacion\bin\Debug\AppMultiplicacion.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppMultiplicacion\AppMultiplicacion\bin\Debug\AppMultiplicacion.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppMultiplicacion\AppMultiplicacion\bin\Debug\AppMultiplicacion.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppMultiplicacion\AppMultiplicacion\obj\Debug\AppMultiplicacion.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppMultiplicacion\AppMultiplicacion\obj\Debug\AppMultiplicacion.pdb
